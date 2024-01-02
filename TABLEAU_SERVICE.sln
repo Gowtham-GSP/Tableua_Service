@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TABLEAU_SERVICE", "TABLEAU_SERVICE.csproj", "{48A53B41-2B3E-4F2C-B81A-F599CE68DCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A53B41-2B3E-4F2C-B81A-F599CE68DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A53B41-2B3E-4F2C-B81A-F599CE68DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A53B41-2B3E-4F2C-B81A-F599CE68DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A53B41-2B3E-4F2C-B81A-F599CE68DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE38C3EB-343B-42FB-9A45-1A543792CE5A}
+	EndGlobalSection
+EndGlobal
